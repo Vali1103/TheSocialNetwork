@@ -1,4 +1,3 @@
-# TSN - API
 
 ## Setup
 
